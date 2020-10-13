@@ -3,7 +3,7 @@
 I'm a *hobbist* programmer
 
 * Accustomed to working with **Python**, **Javascript**, **C#** and **C++**
-* Currently working on multiple unannounced projects.
+* Currently working on multiple unannounced projects
 ```
  ____   ,____    ___      __   ,____     
 |  _ | |  __/  / _  \   / /-' |  __/    
