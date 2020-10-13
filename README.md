@@ -1,5 +1,15 @@
-### Hi there 👋
+### Zippity Zap
 
+I'm a *hobbist* programmer
+
+* Accustomed to working with **Python**, **Javascript**, **C#** and **C++**
+* Currently working on multiple unannounced projects.
+```
+ ____   ,____    ___      __   ,____     
+|  _ | |  __/  / _  \   / /-' |  __/    
+|  __| |  /__ | |_|  | | |__, |  /__    
+'-'    |____/  \_/-\_|  \___/ |____/    
+```
 <!--
 **etiennu242/etiennu242** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
